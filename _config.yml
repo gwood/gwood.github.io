@@ -1,6 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
+# link: https://github.com/pages-themes/tactile#previewing-the-theme-locally
+theme: jekyll-theme-tactile
 
 # Name of your site (displayed in the header)
 name: George Wood
